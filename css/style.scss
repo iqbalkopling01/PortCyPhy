@@ -408,8 +408,6 @@ section{
     .box-container{
         @include grid(31rem);
 
-        
-
         .box{
         height: 30rem;
         overflow:hidden;
